@@ -1,7 +1,7 @@
 # telekinesis
 **telekinesis.js** is a JavaScript library that helps you write code by just thinking it! Works great with vanilla.js
 
-## This is an April Fools Day joke ... leave your sighs at the door. It fully entertained my children :)
+### This is an April Fools Day joke ... leave your sighs at the door. It fully entertained my children :)
 
 
 For more see (http://www.johnpapa.net/best-javascript-library-ever/)
