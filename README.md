@@ -6,7 +6,7 @@
 
 For more see (http://www.johnpapa.net/best-javascript-library-ever/)
 
-## "Think" code
+> "Think" code and it writes itself!
 
 ## Current Version
 1.0.0-pre
