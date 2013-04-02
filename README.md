@@ -1,5 +1,5 @@
 # telekinesis
-**telekinesis** is a Javascript library that helps you write code by just thinking it! Works great with vanilla.js
+**telekinesis.js** is a Javascript library that helps you write code by just thinking it! Works great with vanilla.js
 
 ## "Think" code
 
