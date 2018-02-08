@@ -13,7 +13,7 @@ For more see (http://www.johnpapa.net/best-javascript-library-ever/)
 
 ## Quick start
 
-###3 Easy Steps
+### 3 Easy Steps
 1. Link to telekinesis.js `<script src="telekinesis.js"></script>`
 
 2. Think about your code
